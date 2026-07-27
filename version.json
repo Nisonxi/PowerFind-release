@@ -1,0 +1,11 @@
+{
+    "latest": "1.0.20",
+    "url": "https://github.com/Nisonxi/PowerFind-release/releases/latest",
+    "zipUrl": "https://github.com/Nisonxi/PowerFind-release/releases/download/v1.0.20/PowerFind_v1.0.20_portable.zip",
+    "sha256": "87af4837d0a84b013dca8319896866e723c0f2fc322b329e6d56304919d317cd",
+    "notes": "修復:系統匣結束程式關不乾淨(需開工作管理員強制結束)——退出流程中卡死的 windowManager.destroy() 已移除",
+    "date": "2026-07-25",
+    "installerUrl": "https://github.com/Nisonxi/PowerFind-release/releases/download/v1.0.20/PowerFind_Setup_v1.0.20.exe",
+    "installerSha256": "4f02a87cb33801e28956d017de8ddb42150812400faaf82a3cefb47b61ebf304",
+    "sig": "FGu0GaG_lo7_QZHfg6SZBTsYdSRO6c1kGJk5ofTSjrFu33IybyrkHw9pv2VKVmK8fhHyonrIJOSbUgd5onJPDg=="
+}
